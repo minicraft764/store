@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Dark Mode Toggle",
+    "description": "Changes the background color of any page to a modern dark theme.",
+    "code": "document.body.style.backgroundColor = '#121212'; document.body.style.color = '#FFFFFF';"
+  },
+  {
+    "title": "YouTube Ad Skipper",
+    "description": "Automatically clicks the skip button when available.",
+    "code": "setInterval(() => { const btn = document.querySelector('.ytp-ad-skip-button, .ytp-ad-skip-button-modern'); if (btn) btn.click(); }, 500);"
+  },
+  {
+    "title": "Log Storage Data",
+    "description": "Outputs all localStorage entries directly to the browser console.",
+    "code": "console.table(localStorage);"
+  }
+]
