@@ -13,5 +13,10 @@
     "title": "Log Storage Data",
     "description": "Outputs all localStorage entries directly to the browser console.",
     "code": "console.table(localStorage);"
+  },
+  {
+    "title": "GUI Test",
+    "description": "shows a cool animation gui.",
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/GUI.js"
   }
 ]
