@@ -18,5 +18,10 @@
     "title": "GUI Test",
     "description": "shows a cool animation gui.",
     "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/GUI.js"
+  },
+  {
+    "title": "PWA",
+    "description": "turn any website into a downloadable website.",
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/pwa.js"
   }
 ]
