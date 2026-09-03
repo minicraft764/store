@@ -1,43 +1,33 @@
 [
   {
-    "title": "Dark Mode Toggle",
-    "description": "Changes the background color of any page to a modern dark theme.",
-    "code": "document.body.style.backgroundColor = '#121212'; document.body.style.color = '#FFFFFF';"
-  },
-  {
-    "title": "YouTube Ad Skipper",
-    "description": "Automatically clicks the skip button when available.",
-    "code": "setInterval(() => { const btn = document.querySelector('.ytp-ad-skip-button, .ytp-ad-skip-button-modern'); if (btn) btn.click(); }, 500);"
-  },
-  {
-    "title": "Log Storage Data",
-    "description": "Outputs all localStorage entries directly to the browser console.",
-    "code": "console.table(localStorage);"
-  },
-  {
     "title": "GUI Test",
     "description": "shows a cool animation gui.",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/GUI.js"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/GUI.js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/gui-test.png"
   },
   {
     "title": "PWA",
     "description": "turn any website into a downloadable website.",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/pwa.js"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/pwa.js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/pwa.png"
   },
   {
     "title": "web-scanner-advanced",
     "description": "scan any website deeply in your control.",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/web-scanner-advanced.js"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/web-scanner-advanced.js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/"
   },
   {
     "title": "Dino-Game-Hack",
     "description": "scan any website deeply in your control.",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/Dino-Game-Hack.js"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/Dino-Game-Hack.js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/dino-hack.png"
   },
   {
     "title": "GUI Test (MA)",
     "description": "A More Advanced GUI Test (ugly but its ok).",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/GUI-(MA).js"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/GUI-(MA).js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/gui-test(ma).png"
   },
   {
     "title": "EYTS",
