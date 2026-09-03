@@ -38,5 +38,10 @@
     "title": "GUI Test (MA)",
     "description": "A More Advanced GUI Test (ugly but its ok).",
     "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/GUI-(MA).js"
+  },
+  {
+    "title": "EYTS",
+    "description": "Extra YouTube Settins.",
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/EYTS.js"
   }
 ]
