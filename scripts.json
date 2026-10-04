@@ -34,5 +34,11 @@
     "description": "Extra YouTube Settins.",
     "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/EYTS.js",
     "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/setting.jpg"
+  },
+  {
+    "title": "OmeTV - ScarLoc",
+    "description": "A tool that you can use to locate peoples locations(it dont work if there is vpn).",
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/scarloc.js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/scarloc.png"
   }
 ]
