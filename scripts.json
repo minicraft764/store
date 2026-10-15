@@ -40,5 +40,11 @@
     "description": "A tool that you can use to locate peoples locations(it dont work if there is vpn).",
     "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/scarloc.js",
     "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/scarloc.png"
+  },
+  {
+    "title": "Advanced PWA (GUI)",
+    "description": "a updated tool to turn a website without a manifest to a one with manifest.",
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/pwa(adv(GUI)).js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/pwa(adv(GUI)).png"
   }
 ]
