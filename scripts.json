@@ -2,49 +2,49 @@
   {
     "title": "GUI Test",
     "description": "shows a cool animation gui.",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/GUI.js",
-    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/gui-test.png"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/codes/GUI.js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/images/gui-test.png"
   },
   {
     "title": "PWA",
     "description": "turn any website into a downloadable website.",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/pwa.js",
-    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/pwa.png"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/codes/pwa.js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/images/pwa.png"
   },
   {
     "title": "web-scanner-advanced",
     "description": "scan any website deeply in your control.",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/web-scanner-advanced.js",
-    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/web-scanner-advanced.png"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/codes/web-scanner-advanced.js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/images/web-scanner-advanced.png"
   },
   {
     "title": "Dino-Game-Hack",
     "description": "scan any website deeply in your control.",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/Dino-Game-Hack.js",
-    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/dino-hack.png"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/codes/Dino-Game-Hack.js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/images/dino-hack.png"
   },
   {
     "title": "GUI Test (MA)",
     "description": "A More Advanced GUI Test (ugly but its ok).",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/GUI-(MA).js",
-    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/gui-test(ma).png"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/codes/GUI-(MA).js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/images/gui-test(ma).png"
   },
   {
     "title": "EYTS",
     "description": "Extra YouTube Settins.",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/EYTS.js",
-    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/setting.jpg"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/codes/EYTS.js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/images/setting.jpg"
   },
   {
     "title": "OmeTV - ScarLoc",
     "description": "A tool that you can use to locate peoples locations(it dont work if there is vpn).",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/scarloc.js",
-    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/scarloc.png"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/codes/scarloc.js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/images/scarloc.png"
   },
   {
     "title": "Advanced PWA (GUI)",
     "description": "a updated tool to turn a website without a manifest to a one with manifest.",
-    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/pwa(adv(GUI)).js",
-    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/pwa(adv(GUI)).png"
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/codes/pwa(adv(GUI)).js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/images/pwa(adv(GUI)).png"
   }
 ]
