@@ -46,5 +46,11 @@
     "description": "a updated tool to turn a website without a manifest to a one with manifest.",
     "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/codes/pwa(adv(GUI)).js",
     "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/images/pwa(adv(GUI)).png"
+  },
+  {
+    "title": "clear",
+    "description": "a command that clears logs",
+    "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/codes/clear.js",
+    "image": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/images/clear.png"
   }
 ]
