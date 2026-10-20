@@ -7,6 +7,6 @@
   {
     "title": "Image Frame Notification",
     "code": "https://raw.githubusercontent.com/minicraft764/store/refs/heads/main/notifs/crimson.js",
-    "border_look": "https://www.baldhiker.com/wp-content/uploads/2024/06/how-to-draw-a-rose-main-768x523.jpg"
+    "border_look": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH9hQ5oftqgtBXyUJVMTcDvnVWtoKttsSDyXDakZzdFCd81bv7RY3xLVIP&s=10"
   }
 ]
